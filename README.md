@@ -3,7 +3,7 @@
 ## Overview
 
 This repository include Material used during "Image Analysis with QuPath" workshops: Presentation, Detailed exercise instructions and related scripts. 
-The image Files are available through Zenodo or our WIKI page <https://cellobservatory.atlassian.net/wiki/spaces/BIMGP/pages/2427645/Image+Analysis+Training+Material>. 
+The image Files are available through Zenodo or our [WIKI page](https://cellobservatory.atlassian.net/wiki/spaces/BIMGP/pages/2427645/Image+Analysis+Training+Material). 
 The Workshop were given at the Weizmann Institute of Science in March 2023 
 <p align="center">
 <img src="https://github.com/WIS-MICC-CellObservatory/QuPathTutorial/blob/main/WorkshopOverview.png" width="750" title="Overview">
