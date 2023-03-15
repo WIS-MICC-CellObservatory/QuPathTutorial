@@ -2,8 +2,8 @@
 
 ## Overview
 
-This repository include Material used during "Image Analysis with QuPath" workshop: Presentation, Exercises and related image files. 
-
+This repository include Material used during "Image Analysis with QuPath" workshops: Presentation, Exercises and related image files. 
+The Workshop were given at the Weizmann Institute of Science in March 2023 
 <p align="center">
 <img src="https://github.com/WIS-MICC-CellObservatory/QuPathTutorial/blob/main/WorkshopOverview.png" width="750" title="Overview">
 	</p>
