@@ -5,7 +5,7 @@
 This repository include Material used during "Image Analysis with QuPath" workshop: Presentation, Exercises and related image files. 
 
 <p align="center">
-<img src="https://github.com/WIS-MICC-CellObservatory/QuPathTutorial/WorkshopOverview.png" width="750" title="Overview">
+<img src="https://github.com/WIS-MICC-CellObservatory/QuPathTutorial/blob/main/WorkshopOverview.png" width="750" title="Overview">
 	</p>
 
 ## Workshop outline:  
