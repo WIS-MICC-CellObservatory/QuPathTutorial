@@ -8,6 +8,7 @@ The Workshop were given at the Weizmann Institute of Science in March 2023
 <p align="center">
 <img src="https://github.com/WIS-MICC-CellObservatory/QuPathTutorial/blob/main/WorkshopOverview.png" width="750" title="Overview">
 	</p>
+Related data can be found at <a href="https://doi.org/10.5281/zenodo.7737902"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7737902.svg" alt="DOI"></a> 
 
 ## Workshop outline:  
 
